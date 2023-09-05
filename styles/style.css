@@ -1,0 +1,58 @@
+/* Work sense font from google font */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+
+/* Common shared style  */
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header style section */
+
+header{
+    background: #FFF;
+    padding: 50px 240px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-title{
+    color: #0B0223;
+    font-size: 3rem;
+    font-weight: 700;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    color: #3C354F;
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+
+/* Play like the G.O.A.T. section  */
+
+.Play-like{
+    display: flex;
+}
+.group-18{
+    width: 711px;
+    height: 446px;
+}
+
+/* We are gamer section  */
+.gamer-section{
+    display: flex;
+}
+
+/* Online Games section */
+
+.rectangle-group{
+
+}
